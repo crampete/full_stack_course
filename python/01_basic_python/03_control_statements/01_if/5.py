@@ -9,6 +9,8 @@ if johnny_marks > 100 or johnny_marks < 0:
 elif johnny_marks >= 90:
     print("He's a math wizard!")
 
+# like mentioned in the video
+# know the difference between >= 80 and > 80
 elif johnny_marks > 80:
     # if you want to be explicit and
     # it also helps with documentation
