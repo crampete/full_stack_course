@@ -16,7 +16,7 @@ while 1:
     if y_or_n == 'y':
         details = collect_student_details()
         student_details.append(details)
-    elif user_input == 'n':
+    elif y_or_n == 'n':
         break
     else:
         print("Invalid. Please enter y or n only.")
