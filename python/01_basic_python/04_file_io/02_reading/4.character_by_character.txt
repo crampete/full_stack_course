@@ -1,0 +1,1 @@
+This is just to demonstrate how you'd read words in an INEFFICIENT manner using basic constructs.
